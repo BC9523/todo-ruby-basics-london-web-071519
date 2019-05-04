@@ -4,7 +4,6 @@ def division(num1, num2)
 
 def assign_variable(value)
   puts value
-  
 end
 
 
