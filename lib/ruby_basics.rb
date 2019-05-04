@@ -6,6 +6,8 @@ def assign_variable(value)
   return assign_variable
 end
 
+assign_variable(bob)
+
 def argue
   
 end
