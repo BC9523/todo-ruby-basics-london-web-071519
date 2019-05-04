@@ -27,4 +27,4 @@ def pizza_party(topping = "cheese")
  puts topping
 end
 
-pizza_party(topping)
+pizza_party()
